@@ -1,0 +1,26 @@
+{
+  "name": "toyserver",
+  "version": "0.0.0",
+  "description": "A low level server created by node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vincentlau0493/node-toy-server.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "jiayu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentlau0493/node-toy-server/issues"
+  },
+  "homepage": "https://github.com/vincentlau0493/node-toy-server",
+  "dependencies": {
+    "formidable": "*"
+  }
+}
